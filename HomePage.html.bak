@@ -334,6 +334,7 @@ $(document).ready(function(){
   border: solid 1px #c3c3c3;
   border-radius:10px;
 }
+#panel{display:none;}
 </style>
 <div id="flip">
 <div class="section-title" style="background-color: white;">
@@ -404,7 +405,7 @@ $(document).ready(function(){
             <!--/.Controls-->
          </div>
       </div>
-      <div class ="col-md-6" style="margin-top:20px">
+      <div class ="col-md-6" style="margin-top:20px;padding-top:20px;">
          <div class="row">
             <div class="col-md-6 col-sm-6 col-xs-6">
                <div class="card itial mb-4">
@@ -412,7 +413,7 @@ $(document).ready(function(){
                   <div class="card-body">
                      <div class="small text-muted">January 1, 2021</div>
                      <h2 class="card-title h4">Trà sữa nét chấm phá cho nghệ thuật thưởng trà xứ Đài</h2>
-                     <p class="card-text">Đối với nhiều nước châu Á, trà được xem là “quốc ẩm” với bề dày hàng nghìn năm lịch sử, cùng những tinh hoa tự nhiên cất giấu trong từng lá trà. Trà vốn trồng ở nhiều quốc gia và có thể...</p>
+                     <p class="card-text">Đối với nhiều nước châu Á, trà được xem là “quốc ẩm” với bề dày hàng nghìn năm lịch sử, cùng những tinh hoa tự nhiên cất giấu trong từng lá trà. Trà vốn trồng ở nhiều quốc gia và có ..</p>
                      </a>
                   </div>
                </div>
@@ -423,7 +424,7 @@ $(document).ready(function(){
                   <div class="card-body">
                      <div class="small text-muted">January 1, 2021</div>
                      <h2 class="card-title h4">Một số thực phẩm không dùng chung với sữa</h2>
-                     <p class="card-text">Sữa chứa nhiều chất dinh dưỡng như canxi, magiê, đạm... rất có lợi cho cơ thể con người. Tuy nhiên, một số thực phẩm không hích hợp khi dùng với sữa vì nó khiến chất dinh dưỡng trong...</p>
+                     <p class="card-text">Sữa chứa nhiều chất dinh dưỡng như canxi, magiê, đạm.... rất có lợi cho cơ thể con người. Tuy nhiên, một số thực phẩm không hích hợp khi dùng với sữa vì nó khiến chất dinh dưỡng trong thực phẩm...</p>
                      </a>
                   </div>
                </div>
