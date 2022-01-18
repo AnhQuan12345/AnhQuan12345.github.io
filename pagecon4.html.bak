@@ -5,9 +5,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Trà sữa nét chấm phá cho nghệ thuật thưởng trà xứ Đài</title>
+        <title>5 mẹo đơn giản để cắt giảm lượng đường trong chế độ ăn uống của bạn</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="image/favicon.ico" />
+        <!-- Core theme CSS (includes Bootstrap)-->
         <link rel="stylesheet" type="text/css" href="./css/megacss.css">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -17,6 +18,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
   <link rel="stylesheet" href="./Magnific-Popup-master/dist/magnific-popup.css">
   <script src="./Magnific-Popup-master/dist/jquery.magnific-popup.js"></script>
+
   
 
   <script language="javascript" src="java.js"></script>
@@ -26,7 +28,7 @@
     </head>
     <body>
         <!-- Responsive navbar-->
-       <div class="menu-bar bg-light" style="overflow: initial;text-align: center;">
+     <div class="menu-bar bg-light" style="overflow: initial;text-align: center;">
             <!--Navigation Var-->
             <nav class="navbar navbar-expand-sm navbar-light">   <a class="navbar-brand" href="#"><img class="rounded-circle" src="./image/logo3.jpg" alt="logo" style="width: 50px;" /></a>
                 <!--Toggle Collapse Button--> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
@@ -47,7 +49,7 @@
                         <li class="nav-item dropdown"> <a class="nav-link toggle catogary" href="Contact.html"  role="button"  aria-haspopup="true" aria-expanded="false"> <strong>Liên hệ</strong> </a>
                         </li>
                     </ul>
-                    <form class="navbar-form navbar-right" role="search" style="padding-top:10px;">
+                    <form class="navbar-form navbar-right" role="search">
                      <div class="form-group input-group">
                        <input type="text" class="form-control" placeholder="Search..">
                        <span class="input-group-btn">
@@ -75,6 +77,8 @@
               });
               });
               </script>
+            
+            
         <!-- Page content-->
         <div class="container mt-5">
             <div class="row">
@@ -84,34 +88,34 @@
                         <!-- Post header-->
                         <header class="mb-4">
                             <!-- Post title-->
-                            <h1 class="fw-bolder mb-1">Trà sữa nét chấm phá cho nghệ thuật thưởng trà xứ Đài</h1>
+                            <h1 class="fw-bolder mb-1">5 mẹo đơn giản để cắt giảm lượng đường trong chế độ ăn uống của bạn</h1>
                             <!-- Post meta content-->
-                            <div class="text-muted fst-italic mb-2">ngày 5 tháng 12 năm 2021</div>
+                            <div class="text-muted fst-italic mb-2">ngày 1 tháng 12 năm 2021</div>
                             <!-- Post categories-->
-                        
+                      
                         </header>
-                        <p class="fs-5 mb-4"> Đối với nhiều nước châu Á, trà được xem là “quốc ẩm” với bề dày hàng nghìn năm lịch sử, cùng những tinh hoa tự nhiên cất giấu trong từng lá trà.
-                            Trà vốn trồng ở nhiều quốc gia và có thể chế biến thành không ít thức uống lạ. Trong đó, trà sữa là thức uống phố biến ở nhiều quốc gia trên thế giới và Đài Loan được xem là một trong những nơi khởi nguồn của loại đồ uống này.</p>
+						<h3>Loại đường nên cắt giảm và nên ăn</h3>
+                        <p class="fs-5 mb-4">Bạn vẫn nên tiêu thụ ở mức độ vừa phải những loại đường tự nhiên như đường fructose trong nhiều loại trái cây và đường lactose trong các sản phẩm từ sữa, vì chúng còn có các vitamin và khoáng chất bổ sung mà cơ thể cần.Ngược lại, những loại đường thêm vào thức ăn và đồ uống như bánh kẹo, nước ngọt - không cung cấp dinh dưỡng thực sự cho cơ thể. Tiêu thụ quá nhiều, bạn có nguy cơ béo phì, tăng huyết áp và hội chứng chuyển hóa, theo Insider.</p>
                         <!-- Preview image figure-->
-                        <figure class="mb-4"><a class="image-link" href="./image/xudai.jpg"><img class="img-fluid rounded" width="100%" height="500px" src="./image/xudai.jpg" alt="..." /></a></figure>
+                        <figure class="mb-4"><a class="image-link" href="./image/blog7.jpg"><img class="img-fluid rounded" width="100%" style="height:500px;" src="./image/blog7.jpg" alt="..." /></a></figure>
                         <!-- Post content-->
                         <section class="mb-5">
-                            <p class="fs-5 mb-4">Đây là món ăn vặt nức tiếng ở Hạ Long với nguyên liệu chính là sữa chua và trân châu. Tuy thành phần đơn giản nhưng nhờ công thức sữa chua dẻo mịn, ăn kèm trân châu dai giòn và nước cốt dừa thơm, béo ngậy mà món tráng miệng này đã được lòng thực khách gần xa. Hiện nay, món sữa chua trân châu Hạ Long cũng được lan tỏa tới nhiều nơi, phục vụ đa dạng đối tượng khách hàng có nhu cầu giải khát trong mùa hè nóng nực (Ảnh: @Hetmydiscovery).</p>
-                            <figure class="mb-4"><a class="image-link" href="./image/xudai1.jpg"><img class="img-fluid rounded" width="100%" height="500px" src="./image/xudai1.jpg" alt="..." /></a></figure>
-                            <h2 class="fw-bolder mb-4 mt-5">Trà sữa</h2>
-                            <p class="fs-5 mb-4">Để truyền tải trọn vẹn tinh hoa từ những cánh đồng trà xanh ngút tầm mắt vào tách trà, đòi hỏi sự nỗ lực và quy trình chế biến phức tạp. Không phải tiệm trà nào ở Đài Loan cũng có thể làm được điều này. Những thương hiệu trà sữa hiện có ở Đài Loan đều phát triển theo xu hướng hiện đại để bắt kịp thị hiếu của giới trẻ.
-
-                                Giữa thị trường có xu hướng phát triển trẻ hoá, Chun Shui Tang như một “kẻ ngoại tộc” bình lặng, cố chấp giữ cho mình bản sắc riêng, không để bị đồng hoá bởi nhịp sống ồn ã nơi đô thị.</p>
-                            <p class="fs-5 mb-4">Ở đó, những giá trị truyền thống đã đồng hành cùng người dân suốt hàng nghìn năm, được lưu giữ nguyên vẹn từ năm này qua năm khác và chưa từng mai một. Chính sự “bảo thủ” đó đã đem lại cho Chun Shui Tang một sức hút riêng ngay từ khi thành lập.
-
-                                Bước vào cửa hàng Chun Shui Tang, thực khách như lạc vào một thời đại hoàn toàn khác với cổ viện tường đá, tranh chữ, đèn lồng, cửa giấy và bảng hiệu gỗ. Chun Shui Tang tái tạo một cách sống động tiệm trà Trung Quốc trong ký ức của những tâm hồn hoài cổ, khiến mỗi lần ghé thăm là một trải nghiệm mới lạ với thực khách.</p>
+						<h3>Mẹo cắt giảm lượng đường bổ sung ra khỏi chế độ ăn uống</h3>
+                            <p class="fs-5 mb-4">Có nhiều cách để giảm dần và cắt giảm hoàn toàn lượng đường không tốt cho sức khỏe</p>
+							<h3>Đánh giá những gì bạn ăn hàng ngày</h3>
+							<p>Hãy xem những gì bạn thường ăn. Đọc nhãn và kiểm tra các thành phần như si rô bắp (corn syrup), dextrose, maple syrup, mật đường (molasses), si rô gạo (rice syrup), saccharose, sucrose, nước ép trái cây cô đặc (fruit juice concentrate), si rô chà là (date syrup).</p>
+                            <figure class="mb-4"><a class="image-link" href="./image/blog6.jpg"><img class="img-fluid rounded" width="100%" style="height:500px;" src="./image/blog6.jpg" alt="..." /></a></figure>
+                            <h2 class="fw-bolder mb-4 mt-5">Không thay thế bằng chất làm ngọt nhân tạo</h2>
+                            <p class="fs-5 mb-4">Chất làm ngọt nhân tạo có thể gây phản tác dụng. Não cảm nhận được vị ngọt khi cơ thể chuyển hóa chất ngọt nhân tạo và hoạt động giống như đang chuyển hóa đường, vì vậy bạn có thể thèm ăn nhiều đồ ngọt hơn, theo Insider.</p>
+                            <h3>Giới hạn lượng đường ăn hằng ngày</h3>
+							<p class="fs-5 mb-4">Có thể bắt đầu bằng việc giảm 100 calo đường mỗi ngày, tương đương với 1 miếng sô cô la đen hoặc một chiếc bánh quy nhỏ. Sau đó bạn có thể dần dần giảm lượng đường xuống ít hơn.</p>
                         </section>
                     </article>
                     <div style="border-top:black solid 5px;">
                         <h2>Các tin khác</h2>
                         <ul class="related">
                             <li>
-                                <a  href="./trasuaosaigon.html">Trào lưu trà sữa ở Sài Gòn đã dậy thì thành công như thế nào?</a>
+                                <a  href="">Trà sữa nét chấm phá cho nghệ thuật thưởng trà xứ Đài</a>
                             </li>
                             <li>
                                 <a href="">Trà sữa thức uống tưởng đơn giản nhưng cũng lắm công phu </a>

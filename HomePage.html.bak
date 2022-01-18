@@ -334,7 +334,6 @@ $(document).ready(function(){
   border: solid 1px #c3c3c3;
   border-radius:10px;
 }
-#panel{display:none;}
 </style>
 <div id="flip">
 <div class="section-title" style="background-color: white;">
