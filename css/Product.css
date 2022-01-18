@@ -91,70 +91,6 @@ a.nav-item{
 }
 
 
-/* -------------footer */
-
-.app-google {
-    margin: 25px 0;
-}
-.app-google img {
-    width: 150px;
-    cursor: p;
-}
-.input-email {
-    position: relative;
-    width: 300px;
-    margin: auto;
-    margin-top: 30px ;
-}
-.input-email input {
-    width: 100%;
-    border: none;
-    padding-bottom: 12px;
-    border-bottom: 1px solid black;
-    text-align: center;
-}
-.input-email i {
-    position: absolute;
-    right: 12px;
-    bottom: 6px;
-    cursor: pointer;
-}
-.footer-items {
-    text-align:center;
-    justify-content: center;
-    align-items: center;
-	list-style-type:none;
-	padding-top:20px;
-}
-
-.footer-items li a {
-    color: white;
-    font-family: var(--main-text-font);
-    font-weight: bold;
-    font-size: 14px;
-	list-style:none;
-}
-
-.footer-items li:last-child i {
-    font-size: 14px;
-    margin-right: 12px;
-    color: white;
-}
-.footer-items li:last-child i:hover {
-    color: white;
-}
-.footer-items img {
-    width: 100px;
-}
-.footer-text {
-    text-align: center;
-    font-size: 14px;
-    font-family: var(--main-text-font);
-	font-weight:bold;
-	padding-top:20px;
-	color:white;
-
-}
 /*Main content*/
 .filterDiv {
   float: left;
@@ -224,6 +160,7 @@ a:link{
 .snip1582 {
   background-color: #c47135;
   border: none;
+  border-radius: 10px;
   color: #ffffff;
   cursor: pointer;
   display: inline-block;
@@ -337,3 +274,10 @@ a:link{color:white;}
     margin-left: auto;
     margin-right: auto;
 }
+.cardp p{
+    font-weight: 900;
+    color: #0C713D !important;
+    font-size: 18px;
+    font-family: Tahoma;
+
+ }
